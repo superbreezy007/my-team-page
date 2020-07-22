@@ -113,7 +113,7 @@ a {
     }
 
     .card .title {
-        left: 255px;
+        left: calc(100vw - 110em);
     }
 
     .footer {
